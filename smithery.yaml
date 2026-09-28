@@ -1,0 +1,5 @@
+name: genpark-fictitious-play-regret-matching-game-skill
+description: Hart-Mas-Colell regret matching and fictitious play learning dynamics converging to correlated equilibria
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
