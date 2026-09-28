@@ -1,0 +1,19 @@
+{
+  "name": "genpark-fictitious-play-regret-matching-game-skill",
+  "version": "1.0.0",
+  "description": "Hart-Mas-Colell regret matching and fictitious play learning dynamics converging to correlated equilibria",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "regret-matching",
+    "fictitious-play",
+    "correlated-equilibrium",
+    "learning-in-games",
+    "multi-agent-learning",
+    "no-regret-learning",
+    "python-standard-library",
+    "agent-skills",
+    "game-theory",
+    "online-optimization"
+  ]
+}
